@@ -1,0 +1,17 @@
+{
+  "name": "day2",
+  "homepage": "https://github.com/kangsom57143236/day2",
+  "authors": [
+    "jaruwat <onej_naruto191@windowslive.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
